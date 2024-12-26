@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+
+}
+
+.flex-container {
+    font-size: 20px;
+}
+
+.bi-trash {
+    color: red;
+}
+
+.bi-plus {
+    color: rgb(2, 20, 0);
+}
+
+.bi-file-minus {
+    color: red;
+}
+
+.font-effect-fire {
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    font-style: initial;
+    margin-left: 20px;
+}
+
+/* .btn-danger {
+    background-color: red;
+    margin-left: 200px;
+} */
+
+input {
+    margin-top: 10px !important
+}
+
+/* .btn {
+    color: red !important;
+    margin-left: 230px;
+} */
+
+.ml {
+    margin-left: 50px !important
+}
+
+#dropdownMenuButton {
+    text-decoration: none;
+    font-size: 18px;
+    margin-top: 6px;
+    margin-left: 10px;
+}
+
+#spinner {
+    margin-top: 20px !important;
+    justify-content: center !important;
+}
+
+.fa-plus {
+    color: green;
+}
+
+.fa-minus {
+    color: red;
+}
+
+.fa-trash {
+    color: red;
+}
+
+.fa-edit {
+    color: blue;
+}
